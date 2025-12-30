@@ -1,29 +1,35 @@
-<h1 align="center">Hi, I'm Nourhan Wael 👋</h1>
+<h1 align="center">👋 Hi, I'm Nourhan Wael</h1>
+<h3 align="center">AI Engineer • Data Scientist • Generative AI & NLP Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;Data+Scientist;Generative+AI+Specialist;NLP+Engineer;Building+Production+Ready+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Building+Production-Ready+AI+Systems;LLMs+%7C+Transformers+%7C+Generative+AI;NLP+%7C+Computer+Vision+%7C+Data+Science;From+Research+to+Real+World+AI" />
 </p>
-
-<h1 align="center">AI Engineer | Data Scientist | Generative AI | NLP Specialist</h1>
 
 ---
 
-<h2 align="center">About me</h2>
+## 🚀 About Me
 
 <p align="center">
-AI Engineer specializing in <b>Generative AI</b> and <b>Natural Language Processing (NLP)</b>.  
-I build production-ready AI systems — from data preprocessing and model development to deployment using FastAPI, Docker, and cloud services.  
-
+I'm an <b>AI Engineer</b> specialized in <b>Generative AI</b> and <b>Natural Language Processing (NLP)</b>, with strong experience building <b>end-to-end AI systems</b> — from data pipelines and model training to scalable deployment.
 <br><br>
-
-Kaggle Notebooks Expert with a strong focus on modern LLMs, Transformers, and real-world AI applications.
+I work with <b>LLMs, Transformers, and multimodal AI</b> to create real-world applications such as AI search, recommendation systems, text-to-image generation, and intelligent assistants.
+<br><br>
+<b>Kaggle Notebooks Expert</b> with a strong focus on applied machine learning and modern deep learning architectures.
 </p>
 
 ---
 
-<h2 align="center">I code with</h2>
+## 🧠 AI Engineering Stack
 
-<div align="center">
+<p align="center">
+<b>LLMs</b> • Transformers • Hugging Face • LangChain • RAG • Prompt Engineering • Embeddings • Vector Databases • Whisper • OpenCV • Scikit-learn
+</p>
+
+---
+
+## 🛠️ Programming & ML
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42"/>
@@ -35,13 +41,13 @@ Kaggle Notebooks Expert with a strong focus on modern LLMs, Transformers, and re
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42"/>
-</div>
+</p>
 
 ---
 
-<h2 align="center">Backend & Deployment</h2>
+## ⚙️ Backend & Deployment
 
-<div align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
@@ -49,25 +55,25 @@ Kaggle Notebooks Expert with a strong focus on modern LLMs, Transformers, and re
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
-</div>
+</p>
 
 ---
 
-<h2 align="center">GenAI & NLP Stack</h2>
+## 🌍 What I Build
 
-<div align="center">
-LLMs • Transformers • Hugging Face • LangChain • Prompt Engineering • Whisper • Embeddings • Vector Search • OpenCV • Scikit-learn
-</div>
+<p align="center">
+AI Search Engines • Recommendation Systems • Generative AI Apps • NLP Pipelines • Computer Vision Systems • Scalable ML APIs • Production LLM Applications
+</p>
 
 ---
 
-<h2 align="center">Connect with me</h2>
+## 🔗 Connect with Me
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/nourhan-wael" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60"/>
   </a>
   <a href="https://www.kaggle.com/nourhanwael7" target="_blank">
-    <img src="https://github.com/user-attachments/assets/12b92af0-f5f8-4a52-8c3a-22e75152c37b" width="70"/>
+    <img src="https://github.com/user-attachments/assets/12b92af0-f5f8-4a52-8c3a-22e75152c37b" width="60"/>
   </a>
-</div>
+</p>
