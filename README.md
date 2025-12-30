@@ -16,7 +16,7 @@ I build production-ready AI systems — from data preprocessing and model develo
 
 <br><br>
 
-                   Kaggle Notebooks Expert with a strong focus on modern LLMs, Transformers, and real-world AI applications.
+Kaggle Notebooks Expert with a strong focus on modern LLMs, Transformers, and real-world AI applications.
 </p>
 
 ---
